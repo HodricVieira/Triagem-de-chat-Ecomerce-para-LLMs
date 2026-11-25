@@ -28,7 +28,7 @@
 
 ## 2. Estado Atual e Próximos Passos Imediatos
 
-1. **Publicar alterações pendentes no GitHub** (a partir de `C:\Users\rodri\Desktop\Triagem-de-chat-Ecomerce-para-LLMs`):
+1. **Publicar alterações pendentes no GitHub** (a partir de `D:\rodri\Programacoes\Triagem-de-chat-Ecomerce-para-LLMs`):
    - Verificar `git status` e fazer `git add`, `git commit` e `git push` para que o Colab puxe a versão mais recente de `Comparacao_BERTimbau_vs_LLM.ipynb`, `src/`, `AGENTS.md` e `CONTEXTO_PROJETO.md`.
 2. **Validar testes unitários na pasta atual**:
    ```powershell

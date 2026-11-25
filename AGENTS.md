@@ -7,7 +7,7 @@
 - Ao iniciar um novo chat neste repositório, leia `CONTEXTO_PROJETO.md` para ver o status exato e os próximos passos.
 
 ## Arquitetura do Repositório e Fluxo Colab + GitHub + Drive
-- **Pasta local**: `C:\Users\rodri\Desktop\Triagem-de-chat-Ecomerce-para-LLMs`
+- **Pasta local**: `D:\rodri\Programacoes\Triagem-de-chat-Ecomerce-para-LLMs`
 - **Repositório GitHub**: `https://github.com/HodricVieira/Triagem-de-chat-Ecomerce-para-LLMs`
 - **Modelos fora do Git**: as pastas `modelo_intencao/`, `modelo_sentimento/` e `modelo_ner/` estão no `.gitignore` por serem pesadas demais para o GitHub.
 - **Execução no Google Colab** (`Comparacao_BERTimbau_vs_LLM.ipynb`):
